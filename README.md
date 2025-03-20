@@ -1,4 +1,4 @@
-# Portfolio App
+# Portfolio 
 
 This portfolio website is built using **ReactJS** and **Framer**. It showcases my projects, skills, and more. You can clone the repository and run the app locally using the instructions below.
 
